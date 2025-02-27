@@ -1,6 +1,3 @@
-<div align="center">
-   <p>⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️</p>
-</div>
 
 # Hello 👋, I'm Pulado. <img src="https://emoji.gg/assets/emoji/6184-steep.png" width="32px" height="32px">
 
@@ -107,6 +104,7 @@ I'm a technical course student passionate about **back-end development**. I work
 ---
 
 ## 🌐 Socials
+ㅤ
 
 <div align="center">
     <a href="https://www.linkedin.com/in/jorge-miguel-teixeira-do-nascimento-lisboa-4a07a41b2/" target="_blank">
@@ -134,20 +132,23 @@ I'm a technical course student passionate about **back-end development**. I work
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
 </div>
+ㅤ
 
 ---
 
 ## 🏆 GitHub Trophies
+ㅤ
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Pulado&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </div>
+ㅤ
 
 ---
-
 ## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Pulado&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ㅤ
 
 ---
 
@@ -171,7 +172,3 @@ I once automated my entire home using a Raspberry Pi and a bunch of sensors! �
 - **Google Cloud Professional Data Engineer**
 
 ---
-
-<div align="center">
-   <p>⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️</p>
-</div>
