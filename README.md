@@ -1,3 +1,4 @@
+⭐️
 # Hello 👋, I'm Pulado. <img src="https://emoji.gg/assets/emoji/6184-steep.png" width="32px" height="32px">
 
 I'm a technical course student passionate about **back-end development**. I work with **C, Java, and PHP (Laravel)**, and my goal is to pursue a career in development, later exploring **penetration testing** and **cybersecurity**. I'm always eager to expand my skills and learn new technologies.
@@ -32,13 +33,14 @@ I'm a technical course student passionate about **back-end development**. I work
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### Tools & Platforms
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 
@@ -90,4 +92,4 @@ I'm a technical course student passionate about **back-end development**. I work
 
 ---
 
-⭐️ From [Pulado](https://github.com/Pulado)
+⭐️
