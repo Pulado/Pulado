@@ -3,6 +3,14 @@
 I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focusing on **back-end** development. My goal is to pursue a career in development and later explore **penetration testing** and **cybersecurity**. I'm always eager to expand my skills.
 
 
+
+
+
+
+
+
+s
+
 <div align="center">
     <a href="https://github.com/Pulado">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulado&layout=compact&langs_count=8&theme=radical" />
