@@ -2,14 +2,17 @@
 
 I'm a technical course student passionate about **back-end development**. I work with **C, Java, and PHP (Laravel)**, and my goal is to pursue a career in development, later exploring **penetration testing** and **cybersecurity**. I'm always eager to expand my skills and learn new technologies.
 
+
+ㅤ
 <div align="center">
     <a href="https://github.com/Pulado">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulado&layout=compact&langs_count=8&theme=radical" />
     </a>
 </div>
+ㅤ
+
 
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -49,13 +52,21 @@ I'm a technical course student passionate about **back-end development**. I work
 
 ## 📊 GitHub Stats
 
+ㅤ
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pulado&theme=radical&hide_border=false" />
+</div>
+
+ㅤ
+
 <div align="center">
     <a href="https://github.com/Pulado">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pulado&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulado&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </a>
 </div>
 
+ㅤ
 
 
 ---
