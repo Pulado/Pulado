@@ -49,12 +49,7 @@ I'm a technical course student passionate about **back-end development**. I work
 
 ## 📊 GitHub Stats
 
-<div align="center">
-    <a href="https://github.com/Pulado">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pulado&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulado&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </a>
-</div>
+
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pulado&theme=radical&hide_border=false" />
