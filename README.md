@@ -2,7 +2,7 @@
 ## Hello 👋, I'm Pulado. <img src="https://emoji.gg/assets/emoji/6184-steep.png" width="32px" height="32px"> 
 I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focusing on **back-end** development. My goal is to pursue a career in development and later explore **penetration testing** and **cybersecurity**. I'm always eager to expand my skills.
 
-###ㅤ
+ㅤ
 
 <div align="center">
     <a href="https://github.com/Pulado">
