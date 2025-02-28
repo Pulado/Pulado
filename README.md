@@ -1,7 +1,7 @@
 
 # Hello 👋, I'm Pulado. <img src="https://emoji.gg/assets/emoji/6184-steep.png" width="32px" height="32px">
 
-I'm a technical course student passionate about **back-end development**. I work with **C, Java, and PHP (Laravel)**, and my goal is to pursue a career in development, later exploring **penetration testing** and **cybersecurity**. I'm always eager to expand my skills and learn new technologies.
+I'm a technical course student passionate about **front-end development**. I work with **HTML, CSS, JavaScript, and frameworks like React, React Native and Next.js**, and my goal is to pursue a career in development, later exploring **UI/UX design** and **interactive web applications**. I'm always eager to expand my skills and learn new technologies to create engaging and user-friendly experiences.
 
 ㅤ
 <div align="center">
@@ -110,7 +110,7 @@ I'm a technical course student passionate about **back-end development**. I work
     <a href="https://www.linkedin.com/in/jorge-miguel-teixeira-do-nascimento-lisboa-4a07a41b2/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-    <a href="https://x.com/Pulado_O" target="_blank">
+    <a href="https://x.com/PauloEm65503382" target="_blank">
         <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
     </a>
     <a href="https://medium.com/@pauloemanuelpradodiasdiniz2017" target="_blank">
